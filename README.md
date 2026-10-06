@@ -5,7 +5,7 @@ atmospheric moisture can create conditions that support more destructive hurrica
 a long-term temperature record and real NOAA GOES satellite imagery.
 
 ## Launch page
-https://kmalva.github.io/Hurricane-Final_Project/
+https://kmalva.github.io/Hurricane-Fuel-How-a-Warming-Atlantic-Loads-the-Dice/
 
 ## The story (and–but–therefore)
 - **And** — the Atlantic has warmed for over a century and may keep warming.
