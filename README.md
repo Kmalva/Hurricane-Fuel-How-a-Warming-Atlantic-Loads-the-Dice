@@ -7,6 +7,9 @@ a long-term temperature record and real NOAA GOES satellite imagery.
 ## Launch page
 https://kmalva.github.io/Hurricane-Fuel-How-a-Warming-Atlantic-Loads-the-Dice/
 
+## Demo video
+https://youtu.be/8bslw_WwCVk?si=HrmZpaOei1YBr0OU
+
 ## The story (and–but–therefore)
 - **And** — the Atlantic has warmed for over a century and may keep warming.
 - **But** — the storm ingredients are changing because the climate around them is changing; the storm is local but the warming behind it is global.
